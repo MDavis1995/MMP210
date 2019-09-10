@@ -1,0 +1,49 @@
+h1{
+    font-family: futura;
+    font-weight: 100;
+    text-align: center;
+    padding-top: 20px;
+    color: #49A078;
+
+}
+
+li{
+    list-style: none;
+    display: inline;
+}
+
+ul{
+    text-align: center;
+    display: inline;
+    font-family: futura;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    padding-left: 10px;
+    color: #9CC5A1;
+}
+body{
+    background-color: #F8F9F9;
+}
+
+nav{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+form{
+    font-family: futura;
+    padding: 40px;
+    text-align: center;
+}
+
+#submit{
+    font-size: 30px;
+}
+
+p{
+    color: #49A078;
+}
