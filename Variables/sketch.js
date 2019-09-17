@@ -1,3 +1,10 @@
+/*
+    self portrait with variables by Moriah
+    09/17/2019
+*/
+
+var faceSize= 400;
+
 function setup() {
     createCanvas(600, 400);
 }
